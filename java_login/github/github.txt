@@ -1,3 +1,14 @@
 para upar o projeto para o github
 1 crio o projeto no repositorio do github
 2 pegamos o link do projeto escolhendo http: https://github.com/wendelbia/java_login.git
+3 clico com o botao direito no projeto e escolho team->share project->criar ->finalizar
+4 no pc vou em usuario -> wendel -> git e o repositorio que é criado no pc e também simutâneamente no git 
+	estará lá
+5 depois disso o projeto vai sinalizar icones de interrogação que quer dizer que devemos commitar, salvar
+6 entao vamos para o team->add index que agora vai ficar com um icone de asterisco
+7 proximo passo será team->commit
+8 abrirá uma aba com a lista de itens em verde que sao todos os arquivos que serão salvos
+9 no commit menssage sempre colocamos uma mensagem para identificar o andamento
+10 diferença de commit para commit push, no commit salva na pasta local, o commit push salva 
+	 tanto na local quanto na online
+
