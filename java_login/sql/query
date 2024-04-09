@@ -1,0 +1,18 @@
+-- Database: java_login
+
+-- DROP DATABASE java_login;
+
+CREATE DATABASE java_login
+  WITH OWNER = postgres
+       ENCODING = 'UTF8'
+       TABLESPACE = pg_default
+       LC_COLLATE = 'Portuguese_Brazil.1252'
+       LC_CTYPE = 'Portuguese_Brazil.1252'
+       CONNECTION LIMIT = -1;
+       
+       
+create table login(
+	login character varying(200),
+	senha character varying(200),
+	constraint login_unique UNIQUE (login)
+);
