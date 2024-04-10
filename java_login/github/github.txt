@@ -1,6 +1,6 @@
 para upar o projeto para o github
 1 crio o projeto no repositorio do github
-2 pegamos o link do projeto escolhendo http: https://github.com/wendelbia/java_login.git
+2 pegamos o link do projeto escolhendo http: 
 3 clico com o botao direito no projeto e escolho team->share project->criar ->finalizar
 4 no pc vou em usuario -> wendel -> git e o repositorio que é criado no pc e também simutâneamente no git 
 	estará lá
